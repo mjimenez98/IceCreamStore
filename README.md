@@ -1,6 +1,6 @@
 # IceCreamStore
 
-Online ice cream store system. The user is able to add ice cream orders to a shopping cart, delete orders that have been created, see how much the order amounts to and finally checkout.
+Online ice cream store system. The user is able to add ice cream orders to a shopping cart, delete orders that have been created, see how much the orders in the shopping cart amount to and finally checkout.
 
 This project contains five Java classes:
   1. Menu: Models menus used in text-based menu-driven programs, where the user is presented with a list of options to choose
